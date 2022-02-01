@@ -62,14 +62,14 @@ class _HomeState extends State<Home> {
                 //this is how to add border radius to buttons
                 shape: new RoundedRectangleBorder(
                   borderRadius: new BorderRadius.circular(60.0),),
-                onPressed: () {}, child: Text('click'),
+                onPressed: () {}, child: Text('Click'),
                 color: Colors.yellow,
               ),
               FlatButton(
                 //this is how to add border radius to buttons
                 shape: new RoundedRectangleBorder(
                   borderRadius: new BorderRadius.circular(60.0),),
-                onPressed: () {}, child: Text('click'),
+                onPressed: () {}, child: Text('Click'),
                 color: Colors.pink,
               ),
             ],
